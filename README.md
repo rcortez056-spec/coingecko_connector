@@ -31,4 +31,4 @@ results = connector.get_top_headlines(query="AI agents")
 
 ## Built By
 
-Ramon Cortez — AI Architect | [ramoncortezai.com](https://ramoncortezai.com)
+Ramon Cortez — AI Architect | [Linkedin.com](https://linkedin.com/in/ramon-cortez-a227a2112)
